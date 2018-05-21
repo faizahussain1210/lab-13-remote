@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+    
+}
+p {
+    color: #0000FF;
+	font-size: 12px;
+}
+
+h1 {
+    color: #008000;
+	background-color: #888888;
+	text-transform: uppercase;
+	margin: 20px;
+	padding: 40px;
+	border-style: solid;
+	border-width: 5px;
+	border-left-width: 10px;
+	border-right-width: 10px;
+	border-color: red;
+}
+h2 {
+    
+	background-color: #888888;
+	text-decoration: underline;
+}
+h3 {
+    
+	background-color: #888888;
+}
+h4 {
+    
+	background-color: #888888;
+}
+h5 {
+    
+	background-color: #888888;
+}
+.intro {
+    color: red;
+    font-weight: bold;
+}
+#spotlight{
+    background-color: black;
+    font-weight: bold;
+	
+}
